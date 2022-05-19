@@ -1,2 +1,2 @@
-# cdl
-projekt fuer Semantik II, Vecchi
+# Combined Distributional and Formal Semantics
+Projekt fuer Semantik II, Vecchi, LMU 
